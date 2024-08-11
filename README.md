@@ -1,10 +1,5 @@
-✉️ salut je suis kenshin voici mes réseaux sociaux
-✅youtube 
-https://www.youtube.com/watch?v=dGvreGwvkZ0&t=15s
-✅ 
-instagrame https://www.instagram.com/kenshin5996/ 
-✅ 
-discord https://discord.gg/UyXJNjJnnB 
+✉️ salut je suis kenshin5996 jai 19ans 
+🎉je partage des dossier pour le mode menu stand 
 
 💬 merci on personne qui me follow
 

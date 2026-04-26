@@ -33,10 +33,9 @@ Si vous ne l’avez pas, les fichiers ne serviront pas.
 ## 🌐 Mes réseaux
 
 🎬 YouTube :
-https://www.youtube.com/watch?v=dGvreGwkZ0&t=15s
-
+https://www.youtube.com/@kenshin5996
 💬 Discord :
-https://discord.gg/NVJ4JPBcNx
+https://discord.gg/6sk2MGrmX3
 
 ---
 

@@ -27,7 +27,7 @@ Si vous ne l’avez pas, les fichiers ne serviront pas.
 2. Ouvrir le dossier Stand
 3. Copier dans le bon dossier (Lua Scripts / Vehicles / Outfits)
 4. Lancer GTA V avec Stand
-
+5. Je vous informe que le bon dossier est au nom de Thomas Drago.
 ---
 
 ## 🌐 Mes réseaux

@@ -1,9 +1,45 @@
-✉️ salut je suis kenshin5996 jai 20ans 
-🎉je partage des dossier pour le mode menu stand 
+# 👋 Salut, moi c’est Kenshin5996
 
-💬 merci on personne qui me follow
+🎮 Moddeur GTA V (Stand Menu)
+🚗 Je partage :
+- des tenues moddés
+- des véhicules moddés
+- des scripts compatibles Stand
 
-💬 explication de mon profil 
-💬 je partage des dossiers avec plein de tenue moddé est des véhicules moddér pour gta et si les personnes qui ont pas de mode Menu stand sur gta ça sert à rien d'installer le fichier du coup 
+⚠️ IMPORTANT
+Mes fichiers fonctionnent uniquement avec **Stand Menu GTA V**
+Si vous ne l’avez pas, les fichiers ne serviront pas.
+
+---
+
+## 📂 Contenu disponible sur mon profil
+
+✔️ Tenues moddés  
+✔️ Véhicules moddés  
+✔️ Scripts Lua  
+✔️ Configurations Stand  
+
+---
+
+## 📥 Installation
+
+1. Télécharger le fichier
+2. Ouvrir le dossier Stand
+3. Copier dans le bon dossier (Lua Scripts / Vehicles / Outfits)
+4. Lancer GTA V avec Stand
+
+---
+
+## 🌐 Mes réseaux
+
+🎬 YouTube :
+https://www.youtube.com/watch?v=dGvreGwkZ0&t=15s
+
+💬 Discord :
+https://discord.gg/NVJ4JPBcNx
+
+---
+
+Merci à ceux qui me follow ❤️ 
 
 ![Capture d'écran 2024-07-31 143827](https://github.com/user-attachments/assets/52c7dd4e-1979-4a40-a001-0639a3b10ee1)
